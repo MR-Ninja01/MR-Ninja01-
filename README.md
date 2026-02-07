@@ -10,44 +10,42 @@
 
 ---
 
-## 🚀 Featured Projects:
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🏎️ LuxeDrive – Luxury Car Showroom Website
-🔹 A fully responsive luxury car selling platform  
-🔹 Brand-wise pages (BMW, Audi, Lamborghini)  
-🔹 Car filtering, dark/light mode, animated sliders  
-🔹 Built with HTML, CSS, Bootstrap, JavaScript  
+<div align="left">
 
-👉 [View Project](https://github.com/RealHarsh007/LuxeDrive)
+<img src="https://img.shields.io/badge/🏎️_LuxeDrive-Luxury_Car_Showroom-2563EB?style=for-the-badge"/>
+<br>
+<a href="https://github.com/RealHarsh007/LuxeDrive">
+<img src="https://img.shields.io/badge/View_Project-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<br>
 
----
+<img src="https://img.shields.io/badge/🏥_Blood_Bank_Management-System-DC2626?style=for-the-badge"/>
+<br>
+<a href="https://github.com/RealHarsh007/BloodBank-Management-System">
+<img src="https://img.shields.io/badge/View_Project-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<br>
 
-### 🏥 Blood Bank Management System
-🔹 Role-based system (Admin, Donor, Patient, Staff)  
-🔹 Database integration for donor & blood records  
-🔹 Built using Java / MySQL  
+<img src="https://img.shields.io/badge/🚗_Car_Sales_&_Service-System-059669?style=for-the-badge"/>
+<br>
+<a href="https://github.com/RealHarsh007/Car-Sales-System">
+<img src="https://img.shields.io/badge/View_Project-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<br>
 
-👉 [View Project](https://github.com/RealHarsh007/BloodBank-Management-System)
+<img src="https://img.shields.io/badge/🤖_SIA_AI_Assistant-7C3AED?style=for-the-badge"/>
+<br>
+<a href="https://github.com/RealHarsh007/SIA-AI-Assistant">
+<img src="https://img.shields.io/badge/View_Project-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
----
-
-### 🚗 Car Sales & Service Management System
-🔹 Manage car inventory, customer data & PDI details  
-🔹 Sales + Service tracking  
-🔹 React + Node.js + MySQL Backend  
-
-👉 [View Project](https://github.com/RealHarsh007/Car-Sales-System)
-
----
-
-### 🤖 SIA – Smart Intelligent Assistant
-🔹 AI-based desktop assistant  
-🔹 Voice control, app launching, email automation  
-🔹 Built using Python + PyQt5  
-
-👉 [View Project](https://github.com/RealHarsh007/SIA-AI-Assistant)
+</div>
 
 ---
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/real_harsh_003/)  
